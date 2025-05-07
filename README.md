@@ -1,4 +1,4 @@
-# Detección y Clasificación de Vocalizaciones Ultrasonicas
+# CHEFCITO: Sistema de Detección de ratas 
 
 Este proyecto tiene como objetivo procesar, analizar y clasificar vocalizaciones ultrasonicas (USVs) para detectar la presencia de ratas y diferenciarlas de otros sonidos en rangos ultrasónicos. El sistema utiliza técnicas de procesamiento de señales para extraer características relevantes de las vocalizaciones y entrenar un modelo de Machine Learning basado en el algoritmo de clasificación K-Nearest Neighbors (KNN). Este modelo permite determinar si una vocalización corresponde a una rata o no.
 
